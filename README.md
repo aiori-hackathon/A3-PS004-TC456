@@ -1,6 +1,6 @@
 # Authenticated Gateway-Assisted DNSSEC for IoT Clients
 
-**AIORI Hackathon 3 | Project: A3-PS004-TC456**
+**AIORI Hackathon 3 | Problem statement code: A3-PS004 | Team code: A3-PS004-TC456**
 
 ## Overview
 Resource-constrained IoT devices (such as CCTV cameras, smart meters, and sensors) often skip DNSSEC validation due to weak CPUs, minimal RAM, and strict power budgets. This bypass exposes these devices to critical security risks like DNS spoofing, cache poisoning, and fake update-server redirection. 
