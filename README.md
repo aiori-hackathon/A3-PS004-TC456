@@ -7,7 +7,7 @@ Resource-constrained IoT devices (such as CCTV cameras, smart meters, and sensor
 
 This project introduces a lightweight security offloading solution by shifting cryptographic validation off the weak IoT device and onto a dedicated, authenticated local Edge Gateway. 
 
-[📺 Watch our Team Introduction Video on YouTube]([https://youtube.com](https://youtu.be/7_I7zIyeB7s))
+[📺 Watch our Team Introduction Video on YouTube]([https://youtube.com](<https://youtu.be/7_I7zIyeB7s>))
 
 
 ## Features
