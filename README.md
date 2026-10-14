@@ -7,6 +7,9 @@ Resource-constrained IoT devices (such as CCTV cameras, smart meters, and sensor
 
 This project introduces a lightweight security offloading solution by shifting cryptographic validation off the weak IoT device and onto a dedicated, authenticated local Edge Gateway. 
 
+[📺 Watch our Team Introduction Video on YouTube]([https://youtube.com](https://youtu.be/7_I7zIyeB7s))
+
+
 ## Features
 * **Token-Based Authentication:** Devices send requests with an `X-Device-Token` header, which the gateway verifies against a local `devices.json` file. Unauthenticated queries are instantly dropped to prevent network misuse.
 * **Gateway-Assisted DNSSEC Validation:** The gateway requests DNSSEC records from upstream resolvers (such as 1.1.1.1 or 8.8.8.8) and handles the CPU-intensive mathematical verification of DNSKEY public keys and RRSIG signature chains.
